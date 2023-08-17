@@ -29,3 +29,15 @@ a=float(input('Enter your number:'))
 b=float(input('Enter your number:'))
 print(a/b)
 '''
+
+
+#Modulus
+a=float(input('Enter your number:'))
+b=float(input('Enter your number:'))
+print(a%b)
+
+
+#Exponentiation
+a=float(input('Enter your number:'))
+b=float(input('Enter your number:'))
+print(a**b)
