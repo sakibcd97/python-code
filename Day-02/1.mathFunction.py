@@ -8,3 +8,8 @@ print(pow(2,3))
 print(sqrt(25))
 print(abs(-4))
 print(round(3.5))
+
+
+
+print(floor(3.5))
+print(ceil(3.2))
