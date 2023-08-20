@@ -25,7 +25,7 @@ print(a*b)
 
 #Division	
 a=float(input('Enter your number:'))
-b=float(input('Enter your number:'))
+b=float(input('Enter your number:')) 
 print("{:.2f}".format(a/b))
 print("%.2f"%round(a/b,2))
 
