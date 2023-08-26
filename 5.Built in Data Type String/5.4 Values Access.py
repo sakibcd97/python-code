@@ -10,3 +10,14 @@ print(text[2])
 print(text[3])
 print(text[4])
 print(text[5])
+print(text[6])
+
+#output: 
+'''
+p
+y
+t
+h
+o
+n
+'''
